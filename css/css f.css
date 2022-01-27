@@ -1,0 +1,3 @@
+if (ergebnis < 5)
+{document.getElementById("ausgabe").style.color = "crimson"} else { if ( ergebnis > 10)
+{document.getElementById("ausgabe").style.color = "blueviolet"} else {document.getElementById("ausgabe").style.color = "green"
